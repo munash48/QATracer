@@ -1,8 +1,13 @@
 ### QATracer
-##TEST PROCEDURE FOR USING THE QA-Tracer PLUGIN
+
+##TEST PROCEDURE FOR USING THE QA-Tracer PLUGIN 
+
 #Description 
+
 The QA-Tracer plugin is used for tracing the Quality Attributes during the architecture design of the  System Development Life Cycle. The plugin works alongside the ArchTrace Studio 5; another plugin for eclipse used to design architectures.
+
 #Installation and testing procedures
+
 1)	Install the Java Development Kit (JDK) if this is not yet installed on your operating system.
 2)	Install eclipse preferably eclipse for plugin development, this will come pre installed with the eclipse PDE, otherwise make sure you install or its installed.(The PDE is only required if you intend to compile from source). 
 3)	Next install the ArchStudio plugin for designing architectures from
