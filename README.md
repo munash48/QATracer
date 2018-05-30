@@ -1,8 +1,5 @@
-QATracer
-========
-
 TEST PROCEDURE FOR USING THE QA-Tracer PLUGIN 
-===
+====
 Description 
 ==
 
